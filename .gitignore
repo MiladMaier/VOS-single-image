@@ -1,0 +1,34 @@
+# Python / env
+venv/
+env/
+.VSCode/
+.vscode/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj*
+
+# Data / outputs / caches
+*.sqlite
+cache/
+logs/
+output/
+savefig/
+detection/data/
+tmp/
+*.npz
+
+# Model weights - either tracked by LFS or ignored
+*.pth
+*.pt
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db

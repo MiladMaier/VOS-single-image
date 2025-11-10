@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "000000000001.jpg",
+      "width": 640,
+      "height": 480,
+      "license": 1,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": ""
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "object",
+      "supercategory": "none"
+    }
+  ]
+}
